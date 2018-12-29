@@ -1,10 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to the celebration of Kimberly's 16th birthday
 
-You can use the [editor on GitHub](https://github.com/mckimbo17/Kimis-16th/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+Welcome to
+Kimbo's
+Exclusive Events Page
+Get on the guest list for:
+Kims Special Annual Celebration
+RSVP HERE:   
+This years theme:
+Sweet Sixteen Silver & White party.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Not the NEW NEW but rather, more cultured
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
